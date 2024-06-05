@@ -1,0 +1,27 @@
+.row{
+    border: 1px black solid;
+}
+
+.col{
+    height: 220px;
+    border: 1px white solid;
+    background-color: black;
+
+}
+
+.contenedor-imagen{
+    display: flex;
+    height: 190px;
+    width: 190px;
+    object-fit: cover;
+    align-items: center;
+    justify-content: center;
+}
+
+.formatoCasillas{
+    color: white;
+    font-size: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
